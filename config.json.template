@@ -1,0 +1,6 @@
+{
+	"channels": ["#channel"],
+	"server": "irc.ircnetwork.domain",
+	"botName": "name-yer-bot",
+	"password": "super-secret"
+}
